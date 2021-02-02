@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798019699532",
+    "project_id": "tickerapp-d696a",
+    "storage_bucket": "tickerapp-d696a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798019699532:android:d0a37ea342968796bb05e9",
+        "android_client_info": {
+          "package_name": "com.example.TickerApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798019699532-ddte5p9pjhldfcr4vca2k4doe443u85v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAirwmh_JqMPCDcOvktWlJH7kT2H01zw0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798019699532-ddte5p9pjhldfcr4vca2k4doe443u85v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
